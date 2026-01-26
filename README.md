@@ -63,5 +63,3 @@ Para visualizar o site, basta abrir o arquivo `index.html` em seu navegador de p
 2.  **Abra o `index.html`:**
 
     Navegue até a pasta do projeto e abra o arquivo `index.html` em seu navegador.
-
-```
