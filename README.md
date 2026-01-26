@@ -65,5 +65,3 @@ Para visualizar o site, basta abrir o arquivo `index.html` em seu navegador de p
     Navegue até a pasta do projeto e abra o arquivo `index.html` em seu navegador.
 
 ```
-
-**Observação:** Por favor, adicione um screenshot do site na seção "Demonstração" e atualize o link do repositório na seção "Como Executar".
